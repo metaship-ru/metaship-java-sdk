@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.metaship</groupId>
-    <artifactId>MetaShipJavaSDK</artifactId>
+    <artifactId>metaship-java-sdk</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>

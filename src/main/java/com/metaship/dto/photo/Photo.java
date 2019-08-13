@@ -1,4 +1,4 @@
-package com.metaship.entity.photo;
+package com.metaship.dto.photo;
 
 public class Photo {
     private String s;
@@ -24,5 +24,14 @@ public class Photo {
     }
     public void setM(String m) {
         this.m = m;
+    }
+
+    @Override
+    public String toString() {
+        return "Photo{" +
+                "s='" + s + '\'' +
+                ", m='" + m + '\'' +
+                ", original='" + original + '\'' +
+                '}';
     }
 }

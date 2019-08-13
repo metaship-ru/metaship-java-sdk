@@ -1,6 +1,6 @@
-package com.metaship.entity.pickupPoint;
+package com.metaship.dto.pickupPoint;
 
-import com.metaship.entity.photo.Photo;
+import com.metaship.dto.photo.Photo;
 
 import java.util.List;
 import java.util.Objects;
